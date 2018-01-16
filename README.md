@@ -1,2 +1,2 @@
 # ChatApp
-Chat App IOS with react native 
+testing Chat App IOS with react native 
